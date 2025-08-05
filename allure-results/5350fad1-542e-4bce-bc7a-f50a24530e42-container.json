@@ -1,0 +1,1 @@
+{"uuid":"5350fad1-542e-4bce-bc7a-f50a24530e42","name":"base.CommonToAllTest.setup","children":["1af59d68-c849-4d01-af11-da19346bdf22"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754227030835,"stop":1754227032101}],"afters":[],"start":1754227030835,"stop":1754227032103}
