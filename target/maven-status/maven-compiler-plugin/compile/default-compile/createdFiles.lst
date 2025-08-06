@@ -1,0 +1,8 @@
+pages\EditQuoteGridPages.class
+base\CommonToAllPages.class
+pages\CreateCommercialOrder.class
+pages\LoginPage.class
+pages\QuotePage.class
+utils\ExtentReportManager.class
+driver\DriverManager.class
+utils\PropertiesReader.class

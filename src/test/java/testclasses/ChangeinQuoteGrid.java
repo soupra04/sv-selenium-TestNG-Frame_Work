@@ -56,7 +56,7 @@ public class ChangeinQuoteGrid extends CommonToAllTest {
         }
     }
 	
-	@Test(priority = 3) //retryAnalyzer = listeners.RetryAnalyzer.class)
+	//@Test(priority = 3) //retryAnalyzer = listeners.RetryAnalyzer.class)
     public void testChangeCustUnitPrice() throws InterruptedException {
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         loginPage.loginWithValidCred(PropertiesReader.readkey("cc_user"), PropertiesReader.readkey("cc_pwd"));

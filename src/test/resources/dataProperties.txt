@@ -1,0 +1,5 @@
+CC_url = https://computacenterplc--internalcc.sandbox.my.salesforce.com/
+cc_user=soupra.maity@computacenter.com.internalcc
+cc_pwd=Soupr@1234
+browser=chrome
+quoteNumnber = QT-000101813

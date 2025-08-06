@@ -13,7 +13,7 @@ import utils.PropertiesReader;
 
 public class CreateQuoteTest extends CommonToAllTest{
 
-	@Test
+	@Test (priority = 4)
 	public  void testQuoteCreation() {
 		// TODO Auto-generated method stub
 		
