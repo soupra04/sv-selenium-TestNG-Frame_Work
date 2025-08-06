@@ -3,7 +3,6 @@ package testclasses;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
-import java.lang.classfile.ClassFile.Option;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -31,7 +30,7 @@ public class LoginTest extends CommonToAllTest {
 		;
 		test.info("Right Credentials have been provided");
 
-		Assert.assertTrue(textAfterLogin.contains("Enterprise Quoting5"));
+		Assert.assertTrue(textAfterLogin.contains("Enterprise Quoting"));
 		test.info("Successfully landed after login");
 
 	}
